@@ -46,9 +46,11 @@ A farmer who adopts one of the four Diet types may wish to forecast the  expecte
 
 An application is written to forecast the weight of a chick where the user can specify the **Diet** type and the **Time** of growth.
 
-[This application] (http:www.ibm.com) uses a linear regression model to forecast the chick's expected weight.
+[This application] (https://raymondau.shinyapps.io/Chicken/) uses a linear regression model to forecast the chick's expected weight.
 
 ![](Chick.jpg)
+
+
 
 
 
